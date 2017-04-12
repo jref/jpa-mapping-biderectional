@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/jpa-mapping-biderectional.iml" filepath="$PROJECT_DIR$/.idea/modules/jpa-mapping-biderectional.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/jpa-mapping-biderectional_main.iml" filepath="$PROJECT_DIR$/.idea/modules/jpa-mapping-biderectional_main.iml" group="jpa-mapping-biderectional" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/jpa-mapping-biderectional_test.iml" filepath="$PROJECT_DIR$/.idea/modules/jpa-mapping-biderectional_test.iml" group="jpa-mapping-biderectional" />
+    </modules>
+  </component>
+</project>
